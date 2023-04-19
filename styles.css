@@ -17,12 +17,12 @@
   }
   
     a.nostyle:link {
-        text-decoration: inherit;
+        text-decoration: None;
         color: inherit;
     }
 
     a.nostyle:visited {
-        text-decoration: inherit;
+        text-decoration: None;
         color: inherit;
     }
 

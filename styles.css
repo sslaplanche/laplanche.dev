@@ -16,6 +16,16 @@
     height: 100%;
   }
   
+    a.nostyle:link {
+        text-decoration: inherit;
+        color: inherit;
+    }
+
+    a.nostyle:visited {
+        text-decoration: inherit;
+        color: inherit;
+    }
+
   h1.glitch {
       color: white;
       font-family: 'Unbounded', sans-serif;
